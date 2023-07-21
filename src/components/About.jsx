@@ -1,11 +1,10 @@
 import React from 'react'
 import Profile from '../img/profile/profile.jpg'
-import Logo from '../img/logo/Job Dispo no bg.png'
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-[#C0C0C0] text-black pt-50'>
-      <div className='flex flex-col justify-center items-center w-full h-full'>
+    <div name='about' className='w-full py-20 bg-[#C0C0C0] text-black pt-50'>
+      <div className='flex flex-col justify-center items-center w-full py-20'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
             <p className='text-4xl font-bold inline border-2 px-4 border-spacing-1 border-[#f46c74]'>About</p>
@@ -41,8 +40,8 @@ const About = () => {
               </li>
             </div>
           </div>
-          <div className='ml-20 rounded-full pt-10 items-center'>
-            <img className='rounded-full' src={Profile} alt='Profile' style={{width: '300px'}}/>
+          <div className='px-20 rounded-full py-10'>
+            <img className='rounded-full' src={Profile} alt='Profile' style={{width: '270px'}}/>
           </div>
         </div>
       </div>
