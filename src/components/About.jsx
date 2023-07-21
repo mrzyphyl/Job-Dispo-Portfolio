@@ -41,8 +41,8 @@ const About = () => {
               </li>
             </div>
           </div>
-          <div className='ml-20 rounded-full pt-10'>
-            <img className='rounded-full' src={Profile} alt='Profile' style={{width: '270px'}}/>
+          <div className='ml-20 rounded-full pt-10 items-center'>
+            <img className='rounded-full' src={Profile} alt='Profile' style={{width: '300px'}}/>
           </div>
         </div>
       </div>
