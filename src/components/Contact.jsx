@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div name='contact' className='py-20 w-full bg-[#C0C0C0] flex justify-center items-center p-4'>
       <div className='flex flex-col justify-center items-center w-full py-20'>
-        <div className='max-w-[1000px] w-full grid grid-cols-2 gap-0'>
+        <div className='max-w-[1000px] w-full grid md:grid-cols-2 grid-cols-1 gap-0'>
         <div className='hidden md:inline'>
             <img src={Logo} alt="Logo" style={{width: '1000px'}} />
           </div>

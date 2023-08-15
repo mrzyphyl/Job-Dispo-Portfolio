@@ -17,28 +17,20 @@ const Navbar = () => {
       {/*Menu*/}
       <ul className='hidden md:flex'>
         <li className='hover:scale-110 duration-300'>
-          <Link to="home" smooth={true} duration={500}>
-            Home
-          </Link>
+          <a href='/'>Home</a>
         </li>
         <li className='hover:scale-110 duration-300'>
-          <Link to="about" smooth={true} duration={500}>
-            About
-          </Link>
+          <a href='/about'>About</a>
         </li>
         <li className='hover:scale-110 duration-300'>
-          <Link to="skills" smooth={true} duration={500}>
-            Skills
-          </Link>
+          <a href='/skills'>Skills</a>
         </li>
         <li className='hover:scale-110 duration-300'>
-          <Link to="contact" smooth={true} duration={500}>
-            Contact
-          </Link>
+          <a href='/contact'>Contact</a>
         </li>
       </ul>
 
-      {/*Hamburg*/}
+      {/*Hamburger*/}
       <div onClick={handleClick} className='md:hidden z-10'>
         {!nav ? <FaBars/> : <FaTimes/>}
       </div>
@@ -46,24 +38,16 @@ const Navbar = () => {
       {/*Mobile View*/}
       <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#C0C0C0] flex flex-col justify-center items-center'}>
         <li className='py-6 text-4xl'>
-          <Link onClick={handleClick} to="home" smooth={true} duration={500}>
-            Home
-          </Link>
+          <a href='/'>Home</a>
         </li>
         <li className='py-6 text-4xl'>
-          <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            About
-          </Link>
+          <a href='/about'>About</a>
         </li>
         <li className='py-6 text-4xl'>
-          <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-            Skills
-          </Link>
+          <a href='/skills'>Skills</a>
         </li>
         <li className='py-6 text-4xl'>
-          <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
-            Contact
-          </Link>
+          <a href='/contact'>Contact</a>
         </li>
       </ul>
 
