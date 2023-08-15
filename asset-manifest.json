@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Job-Dispo-Portfolio/static/css/main.38979219.css",
-    "main.js": "/Job-Dispo-Portfolio/static/js/main.97f6b91f.js",
+    "main.css": "/Job-Dispo-Portfolio/static/css/main.4714b703.css",
+    "main.js": "/Job-Dispo-Portfolio/static/js/main.85f29f68.js",
     "static/media/csharp.png": "/Job-Dispo-Portfolio/static/media/csharp.d8e9a9289dcc76d931b9.png",
     "static/media/mssql.png": "/Job-Dispo-Portfolio/static/media/mssql.a93530924d4854474bee.png",
     "static/media/profile.jpg": "/Job-Dispo-Portfolio/static/media/profile.bac0f387cd12ce57b22e.jpg",
@@ -16,11 +16,11 @@
     "static/media/javascript.png": "/Job-Dispo-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/java.png": "/Job-Dispo-Portfolio/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/Job-Dispo-Portfolio/index.html",
-    "main.38979219.css.map": "/Job-Dispo-Portfolio/static/css/main.38979219.css.map",
-    "main.97f6b91f.js.map": "/Job-Dispo-Portfolio/static/js/main.97f6b91f.js.map"
+    "main.4714b703.css.map": "/Job-Dispo-Portfolio/static/css/main.4714b703.css.map",
+    "main.85f29f68.js.map": "/Job-Dispo-Portfolio/static/js/main.85f29f68.js.map"
   },
   "entrypoints": [
-    "static/css/main.38979219.css",
-    "static/js/main.97f6b91f.js"
+    "static/css/main.4714b703.css",
+    "static/js/main.85f29f68.js"
   ]
 }
