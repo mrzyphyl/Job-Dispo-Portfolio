@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Job-Dispo-Portfolio/static/css/main.4714b703.css",
-    "main.js": "/Job-Dispo-Portfolio/static/js/main.85f29f68.js",
-    "static/media/csharp.png": "/Job-Dispo-Portfolio/static/media/csharp.d8e9a9289dcc76d931b9.png",
-    "static/media/mssql.png": "/Job-Dispo-Portfolio/static/media/mssql.a93530924d4854474bee.png",
-    "static/media/profile.jpg": "/Job-Dispo-Portfolio/static/media/profile.bac0f387cd12ce57b22e.jpg",
-    "static/media/Job Dispo no bg.png": "/Job-Dispo-Portfolio/static/media/Job Dispo no bg.812f8a3afb321ae8ac2f.png",
-    "static/media/azure.png": "/Job-Dispo-Portfolio/static/media/azure.f6e15a2341f11212e23e.png",
-    "static/media/react.png": "/Job-Dispo-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/Job-Dispo-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/Job-Dispo-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/github.png": "/Job-Dispo-Portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/Job-Dispo-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/Job-Dispo-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/Job-Dispo-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/java.png": "/Job-Dispo-Portfolio/static/media/java.6c64373d3b7415758078.png",
-    "index.html": "/Job-Dispo-Portfolio/index.html",
-    "main.4714b703.css.map": "/Job-Dispo-Portfolio/static/css/main.4714b703.css.map",
-    "main.85f29f68.js.map": "/Job-Dispo-Portfolio/static/js/main.85f29f68.js.map"
+    "main.css": "/static/css/main.4714b703.css",
+    "main.js": "/static/js/main.2fa40aed.js",
+    "static/media/csharp.png": "/static/media/csharp.d8e9a9289dcc76d931b9.png",
+    "static/media/mssql.png": "/static/media/mssql.a93530924d4854474bee.png",
+    "static/media/profile.jpg": "/static/media/profile.bac0f387cd12ce57b22e.jpg",
+    "static/media/Job Dispo no bg.png": "/static/media/Job Dispo no bg.812f8a3afb321ae8ac2f.png",
+    "static/media/azure.png": "/static/media/azure.f6e15a2341f11212e23e.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/index.html",
+    "main.4714b703.css.map": "/static/css/main.4714b703.css.map",
+    "main.2fa40aed.js.map": "/static/js/main.2fa40aed.js.map"
   },
   "entrypoints": [
     "static/css/main.4714b703.css",
-    "static/js/main.85f29f68.js"
+    "static/js/main.2fa40aed.js"
   ]
 }
