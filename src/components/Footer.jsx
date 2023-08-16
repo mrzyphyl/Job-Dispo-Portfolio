@@ -3,7 +3,7 @@ import UPLogo from '../img/logo/Upang Logo no bg.png'
 
 function Footer() {
   return (
-    <div className='w-full h-[80px] flex flex-row justify-center items-center px-4 bg-[#C0C0C0] text-black gap-2'>
+    <div className='w-full h-[80px] flex flex-row justify-center items-center px-4 bg-gradient-to-b from-[#C0C0C0] to-[#9c9c9c] text-black gap-2'>
         <div>
             <img src={UPLogo} alt='Upang Logo' style={{width: '80px'}}/>
         </div>
