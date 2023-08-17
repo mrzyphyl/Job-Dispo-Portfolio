@@ -2,7 +2,6 @@ import React, {useState} from 'react'
 import {FaBars, FaTimes, FaGithub, FaFacebook, FaInstagram} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import Logo from '../img/logo/Job Dispo no bg.png'
-import {Link} from 'react-scroll'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false)
@@ -73,9 +72,9 @@ const Navbar = () => {
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-104px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-            <Link className='flex justify-between items-center w-full text-black' to="contact" smooth={true} duration={500}>
+            <a className='flex justify-between items-center w-full text-black' href='/contact' smooth={true} duration={500}>
               Email <HiOutlineMail size={30}/>
-            </Link>
+            </a>
           </li>
         </ul>
       </div>
